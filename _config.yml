@@ -8,11 +8,11 @@ description: > # he852100
 #github_username:  jekyll
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
 input: GFM
 highlighter: rouge
 
-markdown: redcarpet
+#markdown: redcarpet
 
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify"]
