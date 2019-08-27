@@ -8,5 +8,7 @@ description: > # he852100
 #github_username:  jekyll
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 highlighter: rouge
+
+markdown: redcarpet
